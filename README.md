@@ -1,4 +1,4 @@
-# [Your Full Name] — Game Design Portfolio
+# Aryan Chaudhary — Game Design Portfolio
 
 **Aspiring game designer | BCA (Data Analytics) — Amity University Online**
 
