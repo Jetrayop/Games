@@ -5,11 +5,11 @@
 Welcome — this repo contains my playable prototypes, devlogs, and project documentation created to explore game mechanics, player experience, and narrative design.
 
 ## Projects
-- **Arcade Reflex** — 2D arcade game (GameMaker)  
+- **ProtoG** — 2D arcade game (GameMaker)  
   Play: https://jetrayop.itch.io/protog
   Project: `projects/arcade-reflex/` — includes devlog and screenshots.
 
-- **Maze Runner** — timed maze puzzle (Scratch)  
+- **Doggy Maze** — timed maze puzzle (Scratch)  
   Play: https://scratch.mit.edu/projects/1238718900
   Project: `projects/maze-runner/`
   
