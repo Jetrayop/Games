@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"objects","order":3,"path":"folders/objects.yy",},
+    {"name":"scripts","order":6,"path":"folders/scripts.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Font1","order":4,"path":"fonts/Font1/Font1.yy",},
+    {"name":"obj_attack","order":3,"path":"objects/obj_attack/obj_attack.yy",},
+    {"name":"obj_dialog","order":5,"path":"objects/obj_dialog/obj_dialog.yy",},
+    {"name":"obj_enemy_parent","order":1,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
+    {"name":"obj_enemy1","order":2,"path":"objects/obj_enemy1/obj_enemy1.yy",},
+    {"name":"obj_enemy2","order":4,"path":"objects/obj_enemy2/obj_enemy2.yy",},
+    {"name":"obj_final","order":9,"path":"objects/obj_final/obj_final.yy",},
+    {"name":"obj_npc_parent","order":6,"path":"objects/obj_npc_parent/obj_npc_parent.yy",},
+    {"name":"obj_npc1","order":7,"path":"objects/obj_npc1/obj_npc1.yy",},
+    {"name":"obj_npc2","order":8,"path":"objects/obj_npc2/obj_npc2.yy",},
+    {"name":"Room2","order":2,"path":"rooms/Room2/Room2.yy",},
+    {"name":"RoomUI","order":5,"path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"drawing","order":1,"path":"scripts/drawing/drawing.yy",},
+    {"name":"spr_npc","order":1,"path":"sprites/spr_npc/spr_npc.yy",},
+    {"name":"Sprite22","order":1,"path":"sprites/Sprite22/Sprite22.yy",},
+    {"name":"TileSet1","order":2,"path":"tilesets/TileSet1/TileSet1.yy",},
+  ],
+}
