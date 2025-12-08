@@ -7,16 +7,12 @@ Welcome — this repo contains my playable prototypes, devlogs, and project docu
 ## Projects
 - **ProtoG** — 2D arcade game (GameMaker)  
   Play: https://jetrayop.itch.io/protog
-  Project: `projects/arcade-reflex/` — includes devlog and screenshots.
 
 - **Doggy Maze** — maze puzzle (Scratch)  
   Play: https://scratch.mit.edu/projects/1238718900
-  Project: `projects/maze-runner/`
 
   - **BigChill** — RPG (GameMaker)
    Play: https://jetrayop.itch.io/bigchill
-  Project: `projects/bigchll/
- 
   
 ## Contact
 Email: aryanchaudhary1232@gmail.com
