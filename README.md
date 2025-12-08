@@ -7,6 +7,7 @@ Welcome — this repo contains my playable prototypes, devlogs, and project docu
 ## Projects
 - **ProtoG** — 2D arcade game (GameMaker)  
   Play: https://jetrayop.itch.io/protog
+  
   GDD : https://github.com/Jetrayop/Games/blob/main/PROTOG%20%E2%80%93%20GDD.pdf
 
 - **Doggy Maze** — maze puzzle (Scratch)  
@@ -14,6 +15,7 @@ Welcome — this repo contains my playable prototypes, devlogs, and project docu
 
   - **BigChill** — RPG (GameMaker)
    Play: https://jetrayop.itch.io/bigchill
+
   GDD : https://github.com/Jetrayop/Games/blob/main/BIGCHILL%20%E2%80%93%20One-Page%20GDD.pdf
   
 ## Contact
