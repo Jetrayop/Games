@@ -20,10 +20,11 @@ Welcome — this repo contains my playable prototypes, devlogs, and project docu
 - **Doggy Maze** — maze puzzle (Scratch)  
   Play: https://scratch.mit.edu/projects/1238718900
 
-  - **BigChill** — RPG (GameMaker)
- Play: https://jetrayop.itch.io/bigchill
+ 
+ - **BigChill** — RPG (GameMaker)
+ -  Play: https://jetrayop.itch.io/bigchill
 
- GDD : https://github.com/Jetrayop/Games/blob/main/BIGCHILL%20%E2%80%93%20One-Page%20GDD.pdf
+    GDD : https://github.com/Jetrayop/Games/blob/main/BIGCHILL%20%E2%80%93%20One-Page%20GDD.pdf
   
 ## Contact
 Email: aryanchaudhary1232@gmail.com
