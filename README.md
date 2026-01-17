@@ -5,6 +5,11 @@
 Welcome — this repo contains my playable prototypes, devlogs, and project documentation created to explore game mechanics, player experience, and narrative design.
 
 ## Projects
+- **FIEA FLAPPYRAY PROTOTYPE** — 2D arcade game (UNITY)  
+  Play: https://jetrayop.itch.io/fiea-flappray-prototype
+  FILES : https://github.com/Jetrayop/FlappRAY-
+  GDD : https://github.com/Jetrayop/FlappRAY-/blob/main/FLAPPY%20GDD.pdf
+  
 - **ProtoG** — 2D arcade game (GameMaker)  
   Play: https://jetrayop.itch.io/protog
   
