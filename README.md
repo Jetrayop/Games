@@ -11,11 +11,15 @@ Welcome — this repo contains my playable prototypes, devlogs, and project docu
   FILES : https://github.com/Jetrayop/FlappRAY-
   
   GDD : https://github.com/Jetrayop/FlappRAY-/blob/main/FLAPPY%20GDD.pdf
+
+  Gameplay Video : https://youtu.be/YV875qRphE0
   
 - **ProtoG** — 2D arcade game (GameMaker)  
   Play: https://jetrayop.itch.io/protog
   
   GDD : https://github.com/Jetrayop/Games/blob/main/PROTOG%20%E2%80%93%20GDD.pdf
+
+  Gameplay Video : https://youtu.be/MwuuM5oF8Y4
  
  - **BigChill** — RPG (GameMaker)
  -  Play: https://jetrayop.itch.io/bigchill
