@@ -6,7 +6,8 @@ Welcome — this repo contains my playable prototypes, devlogs, and project docu
 
 ## Projects
  - **ClickyRay** — Unity Arcade Game
-   Play: https://jetrayop.itch.io/clickyray
+ - Play: https://jetrayop.itch.io/clickyray
+ - GamePlay Video - https://www.youtube.com/watch?v=HYSkAupd3vA
    
 - **FIEA FLAPPYRAY PROTOTYPE** — 2D arcade game (UNITY)  
   Play: https://jetrayop.itch.io/fiea-flappray-prototype
