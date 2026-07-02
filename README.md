@@ -5,6 +5,11 @@
 Welcome — this repo contains my playable prototypes, devlogs, and project documentation created to explore game mechanics, player experience, and narrative design.
 
 ## Projects
+- SpaceRay
+- SpaceRay is a fast-paced endless survival game where you play as an astronaut drifting through the depths of space. Your mission is simple: avoid colliding with incoming       asteroids and survive for as long as possible.
+- GamePlay Video : https://youtu.be/qug_8VgcGMI
+
+🎮 Play: https://jetrayop.itch.io/spaceray
  - **ClickyRay** — Unity Arcade Game
  - Play: https://jetrayop.itch.io/clickyray
  - GamePlay Video - https://www.youtube.com/watch?v=HYSkAupd3vA
